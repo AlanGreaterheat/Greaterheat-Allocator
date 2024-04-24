@@ -36,11 +36,11 @@
     "Weekly Allocation": "1P"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "Granted",
     "Validated At": "2024-04-24 02:11:31.855609563 UTC",
     "Validated By": "AlanGreaterheat",
     "Active": true,
-    "Updated At": "2024-04-24 02:11:31.855612852 UTC",
+    "Updated At": "2024-04-24 02:16:28.501473751 UTC",
     "Active Request ID": "47ad9bcf-17e2-4d64-90ee-c85a7b68b894",
     "On Chain Address": "f3qg2ivqejog4mjk3fchu4m7foi4omh57ckoopwbhryscm6xizokternt6t4aduhjbgd6w5hwybx2cgdjhafla",
     "Multisig Address": "false",
@@ -52,9 +52,16 @@
       "Request Type": "First",
       "Created At": "2024-04-24 02:11:31.855614350 UTC",
       "Updated At": "2024-04-24 02:11:31.855615060 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "512TiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "AlanGreaterheat",
+          "Signing Address": "f1wa66ph33vsmxbfgqkcn2x3ayvmblu3irtovphpa",
+          "Created At": "2024-04-24 02:16:25.884000000 UTC",
+          "Message CID": "bafy2bzaceb7ksq4wdxqaprai5ahdfrdsghpxe2yv23jiq6e7zf7d7izkwag6u"
+        }
+      ]
     }
   ]
 }
