@@ -38,9 +38,9 @@
     "State": "Granted",
     "Validated At": "2024-12-30 08:03:06.931405812 UTC",
     "Validated By": "AlanGreaterheat",
-    "Active": true,
-    "Updated At": "2024-12-30 08:03:06.931402504 UTC",
-    "Active Request ID": "cc80bfed-6ae2-4306-b472-c7a6976c03d9",
+    "Active": false,
+    "Updated At": "2025-01-18 17:00:29.482307140 UTC",
+    "Active Request ID": "",
     "On Chain Address": "f1glikceorqrsklnndkcnkoqb7lireurgv2liwobq",
     "Multisig Address": "false",
     "edited": false
