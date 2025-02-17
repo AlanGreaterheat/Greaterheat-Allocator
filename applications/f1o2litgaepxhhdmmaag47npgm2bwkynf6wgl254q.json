@@ -1,0 +1,66 @@
+{
+  "Version": "1.3",
+  "ID": "f1o2litgaepxhhdmmaag47npgm2bwkynf6wgl254q",
+  "Issue Number": "46",
+  "Client": {
+    "Name": "Genome 10K Community of Scientists",
+    "Region": "United States",
+    "Industry": "Life Science / Healthcare",
+    "Website": "https://genome10k.ucsc.edu/",
+    "Social Media": "https://genome10k.ucsc.edu/",
+    "Social Media Type": "Other",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "The Genome 10K Organization is a community of scientists dedicated to the preservation and understanding of genetic diversity in the animal species on our planet. We organize and facilitate projects, such as the Bat 1K, the Bird 10K, and our flagship, the Vertebrate Genomes Project, to sequence the genomes from as many animals as possible, while partnering with sister projects such as the Earth Biogenome Project, the Insect 5K (i5K), and the GIGA – Global Invertebrate Genomics Alliance. Our goal is to assemble a genomic zoo that will live forever as a basis for the science and preservation of life.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "The Genome Ark hosts genomic information for the Vertebrate Genomes Project (VGP) and other related projects. The VGP is an international collaboration that aims to generate complete and near error-free reference genomes for all extant vertebrate species. These genomes will be used to address fundamental questions in biology and disease, to identify species most genetically at risk for extinction, and to preserve genetic information of life.",
+    "Where was the data currently stored in this dataset sourced from": "AWS Cloud",
+    "How do you plan to prepare the dataset": "",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://registry.opendata.aws/genomeark/",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[x] I confirm",
+    "What is the expected retrieval frequency for this data": "Sporadic",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, Europe, Australia (continent)",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f014699\nf03338189\nf03381262\nf03315878\nf03325608\nf03159226",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "5PiB",
+    "Single Size Dataset": "500TiB",
+    "Replicas": 10,
+    "Weekly Allocation": "800TiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2025-02-17 10:14:05.554190767 UTC",
+    "Validated By": "AlanGreaterheat",
+    "Active": true,
+    "Updated At": "2025-02-17 10:14:05.554186956 UTC",
+    "Active Request ID": "79077288-ed81-4f57-8c18-2d0ae085746d",
+    "On Chain Address": "f1o2litgaepxhhdmmaag47npgm2bwkynf6wgl254q",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": [
+    {
+      "ID": "79077288-ed81-4f57-8c18-2d0ae085746d",
+      "Request Type": "First",
+      "Created At": "2025-02-17 10:12:28.893610390 UTC",
+      "Updated At": "2025-02-17 10:12:28.893611304 UTC",
+      "Active": false,
+      "Allocation Amount": "512 TiB",
+      "Signers": [
+        {
+          "Github Username": "AlanGreaterheat",
+          "Signing Address": "f1wa66ph33vsmxbfgqkcn2x3ayvmblu3irtovphpa",
+          "Created At": "2025-02-17 10:14:01.316000000 UTC",
+          "Message CID": "bafy2bzaceczgh7pu4bm7hxlpwm4jfsl5uzfvo267i4n2ryj3nezauqmc3nth2"
+        }
+      ]
+    }
+  ]
+}
