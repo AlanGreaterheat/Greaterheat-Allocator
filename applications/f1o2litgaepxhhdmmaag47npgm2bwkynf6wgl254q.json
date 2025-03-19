@@ -35,7 +35,7 @@
     "Weekly Allocation": "800TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ChangesRequested",
     "Validated At": "2025-03-07 15:31:08.841908979 UTC",
     "Validated By": "AlanGreaterheat",
     "Active": true,
@@ -43,7 +43,7 @@
     "Active Request ID": "8ac3a3a7-b35e-45e8-bae5-e57b1a0a1f8f",
     "On Chain Address": "f1o2litgaepxhhdmmaag47npgm2bwkynf6wgl254q",
     "Multisig Address": "false",
-    "edited": true
+    "edited": false
   },
   "Allocation Requests": [
     {
