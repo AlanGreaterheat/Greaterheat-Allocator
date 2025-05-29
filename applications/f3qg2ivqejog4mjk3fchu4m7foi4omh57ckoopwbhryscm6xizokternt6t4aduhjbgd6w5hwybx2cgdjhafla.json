@@ -35,7 +35,7 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ChangesRequested",
     "Validated At": "2024-04-24 02:11:31.855609563 UTC",
     "Validated By": "AlanGreaterheat",
     "Active": true,
@@ -43,7 +43,7 @@
     "Active Request ID": "47ad9bcf-17e2-4d64-90ee-c85a7b68b894",
     "On Chain Address": "f3qg2ivqejog4mjk3fchu4m7foi4omh57ckoopwbhryscm6xizokternt6t4aduhjbgd6w5hwybx2cgdjhafla",
     "Multisig Address": "false",
-    "edited": true
+    "edited": false
   },
   "Allocation Requests": [
     {
